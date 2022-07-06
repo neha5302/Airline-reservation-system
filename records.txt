@@ -1,0 +1,10 @@
+_______________XYZ Airlines_______________
+__________________Ticket__________________
+__________________________________________
+Customer ID: 8954
+Customer Name: diksha
+Customer Gender: female
+		Description 
+
+Destination:		Europe
+Flight Cost:		14000
